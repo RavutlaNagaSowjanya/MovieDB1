@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MovieDB1</string>
+    <string name="popular">Popular Movies</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="movie_title">Title:</string>
+    <string name="movie_overview">Overview:</string>
+    <string name="movie_release_date">Release Date:</string>
+    <string name="movie_rating">Rating:</string>
+
+    <string name="error_message">Please check Internet Connection!!</string>
+</resources>
