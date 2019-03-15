@@ -5,4 +5,4 @@ In main activity we displayed the popular movies with title:blush:
 when the menu clicks the top rated the top rated movies are displayed with title:blush:
 when the image clicks in the main activity it goes to detail ativity:blush:
 and displays the image backdrop,poster path,titlr,overview,release date and rating of that particular movie:blush:
-
+At last,this is the simple overview of my application:thumbsup:
